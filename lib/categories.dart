@@ -17,7 +17,7 @@ class CategoriesScreen extends StatelessWidget {
           mainAxisSpacing: 20,
         ),
         children: const[
-          Text('1'),
+          Text('1', style: TextStyle(color: Colors.white,)),
           Text('2'),
           Text('3'),
           Text('4'),
